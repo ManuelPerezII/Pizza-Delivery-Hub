@@ -59,11 +59,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\U012MXP\\source\\repos\\PizzaDeliveryHub\\PizzaDeliveryHub.csproj",
+      "projectUniqueName": "C:\\Users\\U012MXP\\Source\\Repos\\Pizza-Delivery-Hub\\PizzaDeliveryHub\\PizzaDeliveryHub.csproj",
       "projectName": "PizzaDeliveryHub",
-      "projectPath": "C:\\Users\\U012MXP\\source\\repos\\PizzaDeliveryHub\\PizzaDeliveryHub.csproj",
+      "projectPath": "C:\\Users\\U012MXP\\Source\\Repos\\Pizza-Delivery-Hub\\PizzaDeliveryHub\\PizzaDeliveryHub.csproj",
       "packagesPath": "C:\\Users\\U012MXP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\U012MXP\\source\\repos\\PizzaDeliveryHub\\obj\\",
+      "outputPath": "C:\\Users\\U012MXP\\Source\\Repos\\Pizza-Delivery-Hub\\PizzaDeliveryHub\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
