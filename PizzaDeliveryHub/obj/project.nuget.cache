@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dThIrM0W8CAzLM4wIPdoTROKHo9yIZ+YsNzMUcGkoAXF2moCEfFpRn63SqurUcpqD9r2rE64ZlAK9hCTNuAlug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\U012MXP\\source\\repos\\PizzaDeliveryHub\\PizzaDeliveryHub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\U012MXP\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

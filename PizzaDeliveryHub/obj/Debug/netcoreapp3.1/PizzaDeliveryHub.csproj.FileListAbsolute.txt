@@ -1,0 +1,15 @@
+C:\Users\U012MXP\source\repos\PizzaDeliveryHub\bin\Debug\netcoreapp3.1\PizzaDeliveryHub.exe
+C:\Users\U012MXP\source\repos\PizzaDeliveryHub\bin\Debug\netcoreapp3.1\PizzaDeliveryHub.deps.json
+C:\Users\U012MXP\source\repos\PizzaDeliveryHub\bin\Debug\netcoreapp3.1\PizzaDeliveryHub.runtimeconfig.json
+C:\Users\U012MXP\source\repos\PizzaDeliveryHub\bin\Debug\netcoreapp3.1\PizzaDeliveryHub.runtimeconfig.dev.json
+C:\Users\U012MXP\source\repos\PizzaDeliveryHub\bin\Debug\netcoreapp3.1\PizzaDeliveryHub.dll
+C:\Users\U012MXP\source\repos\PizzaDeliveryHub\bin\Debug\netcoreapp3.1\PizzaDeliveryHub.pdb
+C:\Users\U012MXP\source\repos\PizzaDeliveryHub\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\U012MXP\source\repos\PizzaDeliveryHub\obj\Debug\netcoreapp3.1\PizzaDeliveryHub.csprojAssemblyReference.cache
+C:\Users\U012MXP\source\repos\PizzaDeliveryHub\obj\Debug\netcoreapp3.1\PizzaDeliveryHub.csproj.CoreCompileInputs.cache
+C:\Users\U012MXP\source\repos\PizzaDeliveryHub\obj\Debug\netcoreapp3.1\PizzaDeliveryHub.AssemblyInfoInputs.cache
+C:\Users\U012MXP\source\repos\PizzaDeliveryHub\obj\Debug\netcoreapp3.1\PizzaDeliveryHub.AssemblyInfo.cs
+C:\Users\U012MXP\source\repos\PizzaDeliveryHub\obj\Debug\netcoreapp3.1\PizzaDeliveryHub.csproj.CopyComplete
+C:\Users\U012MXP\source\repos\PizzaDeliveryHub\obj\Debug\netcoreapp3.1\PizzaDeliveryHub.dll
+C:\Users\U012MXP\source\repos\PizzaDeliveryHub\obj\Debug\netcoreapp3.1\PizzaDeliveryHub.pdb
+C:\Users\U012MXP\source\repos\PizzaDeliveryHub\obj\Debug\netcoreapp3.1\PizzaDeliveryHub.genruntimeconfig.cache
