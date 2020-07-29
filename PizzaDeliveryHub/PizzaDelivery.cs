@@ -47,8 +47,9 @@ namespace PizzaDeliveryHub
             pizzaName = pizzaName.ToLower();
             Kitchen kitchen = new Kitchen();
             Pizza pizza = kitchen.CreatePizza(pizzaName);
-            pizza.Size = item.size;
-            pizza.Compute(GetPizzaSize(pizza.Size));
+            string size = item.size;
+            pizza.Size = GetPizzaSize(size);
+            pizza.Compute();            
             order.Pizzas.Add(pizza);
             order.TotalAmountDue = order.TotalAmountDue + pizza.Amount;
         }
@@ -70,9 +71,10 @@ namespace PizzaDeliveryHub
             {
                 Kitchen kitchen = new Kitchen();
                 pizzaName = pizzaName.ToLower();
-                Pizza pizza = kitchen.CreatePizza(pizzaName);
-                pizza.Size = item.size;
-                pizza.Compute(GetPizzaSize(pizza.Size));
+                Pizza pizza = kitchen.CreatePizza(pizzaName);                
+                string size = item.size;
+                pizza.Size = GetPizzaSize(size);
+                pizza.Compute();
                 order.Pizzas.Add(pizza);
                 order.TotalAmountDue = pizza.Amount;
             }                

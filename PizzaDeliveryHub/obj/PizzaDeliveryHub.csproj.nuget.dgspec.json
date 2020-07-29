@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\U012MXP\\Source\\Repos\\Pizza-Delivery-Hub\\PizzaDeliveryHub\\PizzaDeliveryHub.csproj": {}
+    "C:\\Users\\U012MXP\\source\\repos\\Pizza-Delivery-Hub\\PizzaDeliveryHub\\PizzaDeliveryHub.csproj": {}
   },
   "projects": {
-    "C:\\Users\\U012MXP\\Source\\Repos\\Pizza-Delivery-Hub\\PizzaDeliveryHub\\PizzaDeliveryHub.csproj": {
+    "C:\\Users\\U012MXP\\source\\repos\\Pizza-Delivery-Hub\\PizzaDeliveryHub\\PizzaDeliveryHub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\U012MXP\\Source\\Repos\\Pizza-Delivery-Hub\\PizzaDeliveryHub\\PizzaDeliveryHub.csproj",
+        "projectUniqueName": "C:\\Users\\U012MXP\\source\\repos\\Pizza-Delivery-Hub\\PizzaDeliveryHub\\PizzaDeliveryHub.csproj",
         "projectName": "PizzaDeliveryHub",
-        "projectPath": "C:\\Users\\U012MXP\\Source\\Repos\\Pizza-Delivery-Hub\\PizzaDeliveryHub\\PizzaDeliveryHub.csproj",
+        "projectPath": "C:\\Users\\U012MXP\\source\\repos\\Pizza-Delivery-Hub\\PizzaDeliveryHub\\PizzaDeliveryHub.csproj",
         "packagesPath": "C:\\Users\\U012MXP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\U012MXP\\Source\\Repos\\Pizza-Delivery-Hub\\PizzaDeliveryHub\\obj\\",
+        "outputPath": "C:\\Users\\U012MXP\\source\\repos\\Pizza-Delivery-Hub\\PizzaDeliveryHub\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

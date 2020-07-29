@@ -10,29 +10,26 @@ namespace PizzaDeliveryHub.Models
 
         public double Price { get; set; }
         
-        public string Size { get; set; }
-
+        public PizzaSize Size { get; set; }
+      
         public double Amount { get; set; }
 
-        public virtual void Compute(PizzaSize pizzaSize)
+        public virtual void Compute()
         {
-            switch (pizzaSize)
+            switch (this.Size)
             {
                 case PizzaSize.JustRight:
-                {
-                        Size = Size + (" (* 1.5)");
+                {        
                         Amount = Price * 1.5;
                 }
                     break;
                 case PizzaSize.TooSmall:
-                    {
-                        Size = Size + (" (* 1)");
+                    {                 
                         Amount = Price * 1;                          
                     }
                     break;
                 case PizzaSize.Youmightpuke:
-                    {
-                        Size = Size + (" (* 4)");
+                    {                     
                         Amount = Price * 4;
                     }
                   break;
