@@ -5,6 +5,7 @@ using System.Text;
 
 namespace PizzaDeliveryHub
 {
+
     public sealed class Kitchen
     {
         public Pizza CreatePizza(string pizzaName)
